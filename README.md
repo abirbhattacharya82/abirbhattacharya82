@@ -20,3 +20,6 @@ I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technolog
 [![Foo](Logos/6.png)](https://twitter.com/BhattacharyaAbi)
 [![Foo](Logos/7.jpg)](https://www.instagram.com/yours_lord_voldemort/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Spotify Playing :headphones:
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abir's Spotify List" width="100%" />](https://open.spotify.com/playlist/1UYrIOaNQ8Rzy0d7k3jyYt)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
