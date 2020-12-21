@@ -17,7 +17,7 @@ I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technolog
 [![Foo](Logos/3.png)](https://stackoverflow.com/users/12687265/abir-bhattacharya)
 [![Foo](Logos/4.png)](https://abirbhattacharya82.github.io/me/)
 [![Foo](Logos/5.png)](https://www.facebook.com/abirbhattacharya82/)
-[![Foo](Logos/6.png)](https://twitter.com/BhattacharyaAbi)
+[![Foo](Logos/6.png)](https://twitter.com/IamAbir82)
 [![Foo](Logos/7.jpg)](https://www.instagram.com/yours_lord_voldemort/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Spotify Playing :headphones:
