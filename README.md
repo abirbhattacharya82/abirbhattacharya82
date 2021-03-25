@@ -12,13 +12,13 @@ I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technolog
 ### :coffee: Visit my Repositories and Lets get to know each other. Who knows we might build an empire in Future :smirk:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## You can Follow me on :point_down:
-[![Foo](Logos/1.png)](https://www.hackerrank.com/Abir82)
-[![Foo](Logos/2.png)](https://www.quora.com/profile/Abir-Bhattacharya-16)
-[![Foo](Logos/3.png)](https://stackoverflow.com/users/12687265/abir-bhattacharya)
-[![Foo](Logos/4.png)](https://abirbhattacharya82.github.io/me/)
-[![Foo](Logos/5.png)](https://www.facebook.com/abirbhattacharya82/)
-[![Foo](Logos/6.png)](https://twitter.com/IamAbir82)
-[![Foo](Logos/7.jpg)](https://www.instagram.com/yours_lord_voldemort/)
+[![Foo](Logos1/1.png)](https://www.hackerrank.com/Abir82)
+[![Foo](Logos1/2.png)](https://www.quora.com/profile/Abir-Bhattacharya-16)
+[![Foo](Logos1/3.png)](https://stackoverflow.com/users/12687265/abir-bhattacharya)
+[![Foo](Logos1/4.png)](https://abirbhattacharya82.github.io/me/)
+[![Foo](Logos1/5.png)](https://www.facebook.com/abirbhattacharya82/)
+[![Foo](Logos1/6.png)](https://twitter.com/IamAbir82)
+[![Foo](Logos1/7.jpg)](https://www.instagram.com/yours_lord_voldemort/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Spotify Playing :headphones:
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abir's Spotify List" width="100%" />](https://open.spotify.com/playlist/0wVetG7KWNa4VmvHnJ9BsW)
