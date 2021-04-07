@@ -1,6 +1,6 @@
 ![](main.png)
 -----------------------------------------------------------------------------------------
-## About Me :love_you_gesture:
+## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=abirbhattacharya82&color=green)
 I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technology__ at __Calcutta Institute of Engineering and Management__. I am also an __Author__ and __Painter__, __Open Source Contributor__ and __Competetive Programmer__.
 
 - :office: __Executive Member__ at [CodeChef CIEM Chapter](https://codechef-ciem.github.io/) 
