@@ -6,7 +6,7 @@ I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technolog
 - :office: __Executive Member__ at [CodeChef CIEM Chapter](https://codechef-ciem.github.io/) 
 - :book: Amid __Book Reader__. Favourite among them being _Da Vinci Code_, _Harry Potter and The Goblet of Fire_ and _Lord of the Rings. Return of the King._ 
 - :movie_camera: I love watching a lot of __Movies__. Favourites being _Prestige_, _The Immitation Game_ and _The Dark Knight_.
-- :black_nib: I am an author at [Wattpad](https://www.wattpad.com/user/Abirbhattacharya82) at writer of __3 Books__
+- :black_nib: I am an author at [Wattpad](https://www.wattpad.com/user/Abirbhattacharya82) and writer of __3 Books__
 - :speech_balloon: "Stop __Chasing__ the __Wrong person__, The __right one__ won't __Run__ away"
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :coffee: Visit my Repositories and Lets get to know each other. Who knows we might build an empire in Future :smirk:
