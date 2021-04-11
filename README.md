@@ -19,6 +19,7 @@ I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technolog
 [![Foo](Logos1/5.png)](https://www.facebook.com/abirbhattacharya82/)
 [![Foo](Logos1/6.png)](https://twitter.com/IamAbir82)
 [![Foo](Logos1/7.png)](https://www.instagram.com/iamabir82/)
+[![Foo](Logos1/8.png)](https://www.youtube.com/channel/UCo1O4B97cpWz_2psA9EOJUA)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Spotify Playing :headphones:
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abir's Spotify List" width="100%" />](https://open.spotify.com/playlist/0wVetG7KWNa4VmvHnJ9BsW)
