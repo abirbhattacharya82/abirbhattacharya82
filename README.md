@@ -1,4 +1,4 @@
-![](main.png)
+![](background.png)
 -----------------------------------------------------------------------------------------
 ## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=abirbhattacharya82&color=green)
 I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technology__ at __Calcutta Institute of Engineering and Management__. I am also an __Author__ and __Painter__, __Open Source Contributor__ and __Competetive Programmer__.
@@ -14,7 +14,7 @@ I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technolog
 ## You can Follow me on :point_down:
 [![Foo](Logos1/1.png)](https://www.hackerrank.com/Abir82)
 [![Foo](Logos1/2.png)](https://www.quora.com/profile/Abir-Bhattacharya-16)
-[![Foo](Logos1/3.png)](https://stackoverflow.com/users/12687265/abir-bhattacharya)
+[![Foo](Logos/overflowing.svg)](https://stackoverflow.com/users/12687265/abir-bhattacharya)
 [![Foo](Logos1/4.png)](https://abirbhattacharya82.github.io/me/)
 [![Foo](Logos1/5.png)](https://www.facebook.com/abirbhattacharya82/)
 [![Foo](Logos1/6.png)](https://twitter.com/IamAbir82)
