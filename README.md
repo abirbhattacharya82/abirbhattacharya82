@@ -23,6 +23,7 @@ I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technolog
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abir's Spotify List" width="100%" />](https://open.spotify.com/playlist/0wVetG7KWNa4VmvHnJ9BsW)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## GitHub Stats 🏅
-<img align="left" alt="abirbhattacharya82's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abirbhattacharya82&&show_icons=true&theme=dracula" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=abirbhattacharya82&hide=java&layout=compact&theme=dracula" width="46%" />
+<img align="left" alt="abirbhattacharya82's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abirbhattacharya82&&show_icons=true&theme=dracula" width="30%" />
+<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=abirbhattacharya82&hide=java&layout=compact&theme=dracula" width="30%" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=abirbhattacharya82&theme=dracula&hide_border=true" alt="abirbhattacharya82 - Github Readme Streak Stats" width="30%" />
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=abirbhattacharya82&theme=dracula" width="98%">
