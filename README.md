@@ -12,7 +12,7 @@ I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technolog
 ### :coffee: Visit my Repositories and Lets get to know each other. Who knows we might build an empire in Future :smirk:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## You can Follow me on :point_down:
-[![Foo](Icons/1.png)](https://abirbhattacharya82.github.io/me/)
+[![Foo](Icons/1.png)](https://abirbhattacharya82.github.io/)
 [![Foo](Icons/2.png)](https://www.facebook.com/abirbhattacharya82)
 [![Foo](Icons/3.png)](https://www.instagram.com/iamabir82/)
 [![Foo](Icons/4.png)](https://twitter.com/IamAbir82)
