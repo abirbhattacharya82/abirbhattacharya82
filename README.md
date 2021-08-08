@@ -1,7 +1,7 @@
 ![](Github.gif)
 -----------------------------------------------------------------------------------------
 ## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=abirbhattacharya82&color=green)
-I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technology__ at __Calcutta Institute of Engineering and Management__. I am also an __Artist__, __Open Source Contributor__ and __Competetive Programmer__.
+I'm __Abir Bhattacharya__, 2nd Year __BTech__ Student in __Information Technology__ at __Calcutta Institute of Engineering and Management__, __CodeChef CIEM President__ also an __Artist__, __Open Source Contributor__ and __Competetive Programmer__.
 
 - :office: Former __Executive Member__ at [CodeChef CIEM Chapter](https://codechef-ciem.github.io/) 
 - :book: Amid __Book Reader__. Favourite among them being _Da Vinci Code_, _Harry Potter and The Goblet of Fire_ and _Lord of the Rings. Return of the King._ 
