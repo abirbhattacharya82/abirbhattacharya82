@@ -19,9 +19,4 @@ I'm __Abir Bhattacharya__, 3rd Year __BTech__ Student in __Information Technolog
 [![Foo](Icons/5.png)](https://www.youtube.com/channel/UCo1O4B97cpWz_2psA9EOJUA)
 [![Foo](Icons/6.png)](https://www.linkedin.com/in/abir-bhattacharya-6982551a9/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## GitHub Stats 🏅
-<img align="left" alt="abirbhattacharya82's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abirbhattacharya82&&show_icons=true&theme=dracula&hide_border=true" width="80%" />
-<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=abirbhattacharya82&hide=java&layout=compact&theme=dracula&hide_border=true" width="80%" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=abirbhattacharya82&theme=dracula&hide_border=true" alt="abirbhattacharya82 - Github Readme Streak Stats" width="80%" />
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=abirbhattacharya82&theme=dracula" width="80%"/>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
