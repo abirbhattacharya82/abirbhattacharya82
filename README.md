@@ -4,7 +4,7 @@
 I'm __Abir Bhattacharya__, 3rd Year __BTech__ Student in __Information Technology__ at __Calcutta Institute of Engineering and Management__, __CodeChef CIEM President__, __Competitive Programming Lead at Google DSC CIEM__ also an __Artist__, __Open Source Contributor__ and __Competetive Programmer__.
 
 - :office: Former __Executive Member__ at [CodeChef CIEM Chapter](https://codechef-ciem.github.io/) 
-- :book: Amid __Book Reader__. Favourite among them being _Da Vinci Code_, _Harry Potter and The Goblet of Fire_ and _Lord of the Rings. Return of the King._ 
+- :book: Avid __Book Reader__. Favourite among them being _Da Vinci Code_, _Harry Potter and The Goblet of Fire_ and _Lord of the Rings. Return of the King._ 
 - :movie_camera: I love watching a lot of __Movies__. Favourites being _Prestige_, _The Immitation Game_ and _The Dark Knight_.
 - :black_nib: I am an author at [Wattpad](https://www.wattpad.com/user/Abirbhattacharya82) and writer of __3 Books__
 - :speech_balloon: "Stop __Chasing__ the __Wrong person__, The __right one__ won't __Run__ away"
