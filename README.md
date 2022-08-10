@@ -21,3 +21,4 @@ I'm __Abir Bhattacharya__, 4th Year __BTech__ Student in __Information Technolog
 [![Foo](Icons/6.png)](https://www.linkedin.com/in/abir-bhattacharya-6982551a9/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abirbhattacharya82&bg_color=03111c&color=4c9e95&line=8c00ff&point=3c9fdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
