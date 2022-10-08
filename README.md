@@ -22,3 +22,6 @@ I'm __Abir Bhattacharya__, 4th Year __BTech__ Student in __Information Technolog
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abirbhattacharya82&bg_color=03111c&color=4c9e95&line=8c00ff&point=3c9fdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Holopin Badges
+[![@abirbhattacharya82's Holopin board](https://holopin.io/api/user/board?user=abirbhattacharya82)](https://holopin.io/@abirbhattacharya82)
