@@ -24,4 +24,4 @@ I'm __Abir Bhattacharya__, __Graduate___ in __Information Technology__ from __Ca
 ![](https://github-readme-activity-graph.vercel.app/graph?username=abirbhattacharya82&theme=react-dark)
 
 ## Holopin Badges
-[![@abirbhattacharya82's Holopin board](https://holopin.io/api/user/board?user=abirbhattacharya82)](https://holopin.io/@abirbhattacharya82)
+[![An image of @abirbhattacharya82's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abirbhattacharya82)](https://holopin.io/@abirbhattacharya82)
