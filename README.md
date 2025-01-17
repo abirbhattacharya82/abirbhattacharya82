@@ -3,7 +3,7 @@
 ## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=abirbhattacharya82&color=green)
 I'm __Abir Bhattacharya__, __Graduate___ in __Information Technology__ from __Calcutta Institute of Engineering and Management__,  an __Artist__, __Open Source Contributor__ and __Competetive Programmer__.
 
-- :office: Former __Chapter President__ at [CodeChef CIEM Chapter](https://codechef-ciem.github.io/) 
+- :office: Systems Engineer at __IBM__
 - :book: Avid __Book Reader__. Favourite among them being _Da Vinci Code_, _Harry Potter and The Goblet of Fire_ and _Lord of the Rings. Return of the King._ 
 - :movie_camera: I love watching a lot of __Movies__. Favourites being _Prestige_, _The Immitation Game_ and _The Dark Knight_.
 - :black_nib: I am an author at [Wattpad](https://www.wattpad.com/user/Abirbhattacharya82) and writer of __3 Books__
