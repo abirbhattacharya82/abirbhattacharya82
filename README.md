@@ -21,7 +21,7 @@ I'm __Abir Bhattacharya__, __Data Engineer__ at __IBM__,  an __Artist__, __Open 
 [![Foo](Icons/6.png)](https://www.linkedin.com/in/abir-bhattacharya-6982551a9/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](https://github-readme-activity-graph.vercel.app/graph?username=abirbhattacharya82&theme=react-dark)
+![](https://open.spotify.com/playlist/5ZHgD7XAjGgrXzywqhWK0Z?si=5861e2ef72f04968)
 
 ## Holopin Badges
 [![An image of @abirbhattacharya82's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abirbhattacharya82)](https://holopin.io/@abirbhattacharya82)
