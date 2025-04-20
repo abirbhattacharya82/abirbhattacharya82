@@ -1,7 +1,7 @@
 ![](Github.gif)
 -----------------------------------------------------------------------------------------
 ## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=abirbhattacharya82&color=green)
-I'm __Abir Bhattacharya__, __Graduate___ in __Information Technology__ from __Calcutta Institute of Engineering and Management__,  an __Artist__, __Open Source Contributor__ and __Competetive Programmer__.
+I'm __Abir Bhattacharya__, __Data Engineer___ at __IBM__,  an __Artist__, __Open Source Contributor__ and __Competetive Programmer__.
 
 - :office: Systems Engineer at __IBM__
 - :book: Avid __Book Reader__. Favourite among them being _Da Vinci Code_, _Harry Potter and The Goblet of Fire_ and _Lord of the Rings. Return of the King._ 
